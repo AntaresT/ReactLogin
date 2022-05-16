@@ -8,5 +8,5 @@ It was developed with React and using Styled-Components.
 Initates the application.
 
 ## Links:
-- [React](https://pt-br.reactjs.org/)
+- [React](https://github.com/facebook/create-react-app)
 - [Styled-components](https://github.com/styled-components)
